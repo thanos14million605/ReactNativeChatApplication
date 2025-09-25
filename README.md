@@ -15,7 +15,7 @@ MessageScreen → Opens a selected chat with a message list and input field.
 🛠️ Tech Stack
 
 React Native (Expo)
-React Navigation
-FlatList for chat rendering
+TypeScript (for JavaScript types)
+Nativewind (for styling and fast prototyping)
 
 Built with love by Ebrima Gajaga ❤️❤️❤️❤️
